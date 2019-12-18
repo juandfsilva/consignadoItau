@@ -1,0 +1,11 @@
+O projeto foi todo construido usando maven, sendo assim, basta seguir os passos abaixo para executa-lo.
+
+1 - Clone o projeto em uma pasta de sua preferencia.
+2 - Usando sua idea favorita, import o projeto com "maven project". 
+3 - Dentro do projeto tem um application.properties como exemplo para você usar.
+4 - Essa parte é um pouco mais chata, mas você precisa de uma banco MYSQL, não tive tempo para facilitar essa parte, desculpa.
+5 - Após configurar seu banco MYSQL, rode o script localizado no projeto.
+
+Feito isso, seu projeto ja esta instalado e configurado.
+
+Obrigado.
